@@ -1,2 +1,2 @@
 hello guyes
-in this command deploy the source code deepa
+in this command deploy the source code
